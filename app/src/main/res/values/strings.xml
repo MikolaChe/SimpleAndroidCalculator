@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Gala</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="hint1">Введите первое число</string>
+    <string name="hint2">Введите второе число</string>
+    <string name="plus_button">Сложить числа</string>
+    <string name="minus_button">Вычесть второе число из первого</string>
+    <string name="multiply_button">Умножить числа</string>
+    <string name="divide_button">Поделить первое число на второе</string>
 </resources>
